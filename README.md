@@ -11,4 +11,5 @@ Download repo
 execute main 
 ```python main.py```
 
-to zoom, click in the graph
+It will open a graph window 
+![alt text]https://github.com/CJRockball/Mandelbrot/blob/main/images/Figure_0.png
