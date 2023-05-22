@@ -9,6 +9,6 @@ This program uses GPU and cuda.
 Download repo
 
 execute main 
-python main.py
+```python main.py```
 
 to zoom, click in the graph
