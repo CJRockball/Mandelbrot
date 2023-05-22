@@ -12,4 +12,7 @@ execute main
 ```python main.py```
 
 It will open a graph window 
+<p align="center">
+  <img src="https://github.com/CJRockball/Mandelbrot/blob/main/images/Figure_0.png" width="350" title="hover text">
+</p>
 ![alt text](https://github.com/CJRockball/Mandelbrot/blob/main/images/Figure_0.png)
